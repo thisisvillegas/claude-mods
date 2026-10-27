@@ -1,0 +1,7 @@
+{
+  "name": "project-timer",
+  "version": "0.1.0",
+  "description": "Time spent in Claude Code per project and per session, from transcripts; shown in the Session pane (session-panel). /project-time prints the daily breakdown.",
+  "author": { "name": "thisisvillegas" },
+  "types": "./types/index.d.ts"
+}

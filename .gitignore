@@ -1,0 +1,4 @@
+.DS_Store
+.claude-dev-helper/
+.claude-plugin/types/
+notifier/build/

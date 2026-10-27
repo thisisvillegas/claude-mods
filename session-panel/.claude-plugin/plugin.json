@@ -1,0 +1,13 @@
+{
+  "name": "session-panel",
+  "version": "0.3.0",
+  "description": "Fork of session-band: project time, Claude limits with pace, turn speed, cost, prompt cache countdown and context, as one wrapping line in a side pane or the band above the prompt.",
+  "author": {
+    "name": "johnnyvizz",
+    "url": "https://github.com/johnnyvizz"
+  },
+  "types": "./types/index.d.ts",
+  "homepage": "https://github.com/johnnyvizz/claude-kit/tree/main/plugins/session-band",
+  "repository": "https://github.com/johnnyvizz/claude-kit",
+  "license": "MIT"
+}

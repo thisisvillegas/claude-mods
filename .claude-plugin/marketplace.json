@@ -1,0 +1,23 @@
+{
+  "name": "dres-mods",
+  "owner": {
+    "name": "thisisvillegas"
+  },
+  "metadata": {
+    "description": "Personal Claude Code mods."
+  },
+  "plugins": [
+    {
+      "name": "session-panel",
+      "source": "./session-panel",
+      "description": "Project + session time, Claude 5-hour/weekly limits, turn speed, cost, prompt cache and context, in a side pane or above the prompt.",
+      "category": "mod"
+    },
+    {
+      "name": "project-timer",
+      "source": "./project-timer",
+      "description": "Time spent in Claude Code per project and per session, shown in the Session pane.",
+      "category": "mod"
+    }
+  ]
+}
